@@ -4,4 +4,5 @@ langchain_community
 transformers
 torch
 asyncio
-
+transformers
+sentencepiece
