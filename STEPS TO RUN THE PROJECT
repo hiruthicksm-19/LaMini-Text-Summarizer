@@ -1,4 +1,5 @@
 STEP1  Select the link and download all the files   https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M/tree/main
 STEP2  Put all the fils in a folder and save it as "LaMini-Flan-T5-248M"
-STEP3  Complete all the requirements
+STEP3  Move the folder to the project folder
+STEP4  Complete all the requirements
 
